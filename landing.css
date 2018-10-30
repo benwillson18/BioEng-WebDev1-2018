@@ -1,0 +1,26 @@
+body {
+    display: block;
+    margin: 80px;
+    text-align: center;
+
+}
+.RegButton {
+  background-color: #64EC62;
+  border-radius: 30px;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+.LogButton {
+  background-color: black;
+  border-radius: 30px;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
